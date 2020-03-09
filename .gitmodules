@@ -1,0 +1,3 @@
+[submodule "docker-balena"]
+	path = docker-balena
+	url = https://github.com/alexgg/docker-balena.git

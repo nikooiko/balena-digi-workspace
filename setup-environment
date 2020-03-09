@@ -1,0 +1,6 @@
+#!/bin/bash
+export RELEASE=thud
+
+alias init-repo=./scripts/init-repo.sh
+alias build-builder=./scripts/build-builder.sh
+alias build-digi=./scripts/build-digi.sh
